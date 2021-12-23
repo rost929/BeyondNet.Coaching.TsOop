@@ -1,4 +1,4 @@
-import INotification from '../providers/notification.interface';
+import INotification from '../providers/notificationInterface';
 
 class NotificationService {
   constructor(private providers: INotification[]) {}
