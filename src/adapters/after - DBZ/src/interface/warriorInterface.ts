@@ -1,4 +1,4 @@
 export interface Warrior {
-    AttackBase: number;
-    Attack(): number
+  AttackBase: number;
+  Attack(): number;
 }
